@@ -146,7 +146,6 @@ body {
     "ads"
     "footer";
 }
-}
 
 .task-3-2 .header {
   grid-area: header;
@@ -217,7 +216,6 @@ body {
 
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(12, 1fr);
-}
 }
 
 .task-5 .item-1 {
